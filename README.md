@@ -1,2 +1,2 @@
-# pdsei-2023ii-Carla-Chavez
+# pdsei-2023ii-proyecto
 Proyecto de investigación formativa
